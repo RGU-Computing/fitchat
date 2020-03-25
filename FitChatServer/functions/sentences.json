@@ -1,0 +1,53 @@
+{
+	"startExercise": {
+		"error" : "Sorry, %s exercise not available. I can advise you these exercises : %s or %s.",
+		"found" : "okay, let's do the exercise: %s. There are %s step(s) in this exercise.",
+		"last" : "Did you get all that?"
+	},
+	"saysAllStep": {
+		"steps" : "step %s : %s",
+		"firstStep" : "So there is the first step of '%s' : "
+	}, 
+	"saysAllExercise": {
+		"exercises": "exercise %s : %s"
+	}, 
+	"stepsAdministrator": {
+		"endEx" : "Congratulations ! End of the exercise.",
+		"error" : "Sorry I don't understand. Tell me 'next step', 'previous step', 'repeat step'",
+		"errorStep" : "Step %s not available. There is just %s step(s), which step you want ?",
+		"atBegin" : "Already at the beggining"
+	}, 
+	"exerciseRepeat": {
+		"intro" : "Here are the steps of '%s' exercise again. There are '%s' step(s) in this exercise."
+	},
+	"startSession": {
+		"error" : "'%s' session not available. I can advise you this session : %s",
+		"found" : "There are %s exercise(s) in %s session.",
+		"end" : "Are you ready to start session?"
+	},
+	"sessionRepeatAllsession" : {
+		"intro" : "There are the exercises of '%s' session again.",
+		"end" : "Which exercise number?"
+	},
+	"sessionFromBegin" : {
+		"intro" : "Let's begin with %s exercise. There are %s steps."
+	},
+	"sessionRepeat" : {
+		"intro" : "No problem. I tell you %s's steps again."
+	},
+	"sessionNext" : {
+		"intro": "You're are at the exercise %s of %s.",
+		"introSteps": "Here are the steps of the exercise '%s'",
+		"error": "Exercise %s not available. There is just %s exercise(s), which exercise you want ?"
+	},
+	"sessionPrevious": {
+		"error": "You're already at the beggining of the session.",
+		"intro": "We're back to %s exercise."
+
+	},
+	"exercise": "exercise %s : %s",
+	"steps" : "step %s : %s",
+	"sessionEndSentence" : "Congratulations ! What do you want to do next?",
+	"exerciseEndSentence" : "Congratulations ! End of the exercise.",
+	"continueSession": "Do you want to go to the next exercise, repeat the whole exercise or do the exercise step by step?"
+}
