@@ -1,4 +1,4 @@
-<img src="./assets/bot.png">
+<img src="https://raw.githubusercontent.com/RGU-Computing/fitchat/master/assets/bot.png">
 
 # FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults
 
@@ -7,11 +7,11 @@ Please download our technical paper [here](./assets/FitChat.pdf) for more detail
 
 ## Screenshots
 
-<img src="./assets/screenshot.png" width="800">
+<img src="https://raw.githubusercontent.com/RGU-Computing/fitchat/master/assets/screenshot.png" width="800">
 
 ## System Design 
 
-<img src="./assets/fitchat.jpg" width="700">
+<img src="https://raw.githubusercontent.com/RGU-Computing/fitchat/master/assets/fitchat.jpg" width="700">
 
 ## Setting up the Project
 1. Follow the guide [here](https://cloud.google.com/dialogflow/docs/quick) for getting started with DialogFlow. Download and import the zipped folder 'FitChatBot' to get started with our FitChat bot. 
@@ -27,6 +27,14 @@ a. Create new or improve conversational skills
 b. Add messages to the Motivational Message Bank (More information on the Message Bank will be added soon.)
 
 c. Improve the mobile application
+
+
+----
+
+## Funding 
+
+This project is funded by the GetAMoveOn Network+ (funded by the Engineering and Physical Sciences Research Council, UK (EPSRC) under the grant number: EP/N027299/1) and the SelfBACK Project (funded by the European Union's H2020 research and innovation programme under grant agreement No. 689043).
+
 
 ----
 Repo Maintained by [Anjana Wijekoon (RGU)](https://github.com/anjanaw) and [Benjamin Picard (RGU)](https://github.com/BenjaminPcrd/) 
