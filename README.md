@@ -3,7 +3,7 @@
 # FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults
 
 Delivery of digital behaviour change interventions which encourage physical activity has been tried in many forms. Most often interventions are delivered as text notifications, but these do not promote interaction. Advances in conversational AI have improved natural language understanding and generation, allowing AI chatbots to provide an engaging experience with the user. For this reason, chatbots have recently been seen in healthcare delivering digital interventions through free text or choice selection. We explore the use of voice based AI chatbots as a novel mode of intervention delivery, specifically targeting older adults to encourage physical activity. We co-created the AI chatbot 'FitChat', with older adults from the community and we evaluate the first prototype using Think Aloud Sessions. Our thematic evaluation suggests that older adults prefer voice based chat over text notifications or free text entry and that voice is a powerful mode for encouraging motivation.
-Please download our technical paper [here](./assets/FitChat.pdf) for more details.
+Please download our [technical paper](https://getamoveon.ac.uk/media/pages/funded-projects/conversational-intervention/3732446674-1581531361/nirmali-wiratunga-fitchat-full-technical-report.pdf) for more details.
 
 ## Screenshots
 
