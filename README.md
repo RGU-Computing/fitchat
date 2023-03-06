@@ -1,4 +1,6 @@
 <img src="https://raw.githubusercontent.com/RGU-Computing/fitchat/master/assets/bot.png">
+<a href="https://doi.org/10.5281/zenodo.7702586"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.7702586.svg" alt="DOI"></a>
+
 
 # FitChat: Conversational Artificial Intelligence Interventions for Encouraging Physical Activity in Older Adults
 
